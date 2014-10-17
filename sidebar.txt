@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rar:home|Door43 (rar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rar|d43-rar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rar/archive/master.zip|d43-rar.zip]]
+
+**Recent Changes**
+{{changes>ns = rar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rar|Ethnologue data]]
+
